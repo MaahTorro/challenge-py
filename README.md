@@ -76,4 +76,3 @@ Cada opção aciona a funcionalidade correspondente, permitindo controle complet
 - **Gustavo** - 559098  
 - **Matheus A.** - 555177  
 - **Rodrigo** - 550266  
-- **Matheus Q.** - 558801  

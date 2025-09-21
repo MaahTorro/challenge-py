@@ -3,7 +3,6 @@
 # Gustavo - 559098
 # Matheus A. - 555177
 # Rodrigo - 550266
-# Matheus Q. - 558801
 
 
 from collections import deque
@@ -176,4 +175,5 @@ while True:
     else:
         print_divisor()
         print("⚠️ Opção inválida. Tente novamente.")
+
         

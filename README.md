@@ -74,5 +74,5 @@ Cada opção aciona a funcionalidade correspondente, permitindo controle complet
 ## Integrantes
 - **Marcela Torro** - 557658  
 - **Gustavo** - 559098  
-- **Matheus A.** - 555177  
+- **Matheus** - 555177  
 - **Rodrigo** - 550266  
